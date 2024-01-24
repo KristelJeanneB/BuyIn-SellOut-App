@@ -16,7 +16,6 @@ abstract class RegisterActivity : AppCompatActivity(), View.OnClickListener, Vie
             TODO("Not yet implemented")
         }
     }
-
     class ActivityRegisterBinding {
         companion object {
             fun inflate(from: LayoutInflater?): Any {
