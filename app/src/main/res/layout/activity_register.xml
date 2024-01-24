@@ -9,7 +9,7 @@
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="12dp"
+        android:layout_margin="14dp"
         app:cardCornerRadius="0dp"
         app:cardElevation="8dp"
         app:strokeColor="@color/black"
@@ -18,7 +18,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="12dp"
+            android:layout_margin="14dp"
             android:orientation="vertical">
 
             <com.google.android.material.textfield.TextInputLayout
