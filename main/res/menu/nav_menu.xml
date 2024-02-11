@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/baseline_home_24"/>
+
+        <item
+            android:id="@+id/nav_message"
+            android:title="Message"
+            android:icon="@drawable/baseline_chat_bubble_24"/>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings"
+            android:icon="@drawable/baseline_app_settings_alt_24"/>
+
+        <item
+            android:id="@+id/nav_rate"
+            android:title="Rate Us"
+            android:icon="@drawable/baseline_star_24"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About the App"
+            android:icon="@drawable/baseline_stay_current_portrait_24"/>
+        <item
+            android:id="@+id/nav_customer"
+            android:title="Customer Support"
+            android:icon="@drawable/baseline_diversity_1_24"/>
+    </group>
+
+</menu>
